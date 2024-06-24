@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests are implemented yet.\""
-}
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
